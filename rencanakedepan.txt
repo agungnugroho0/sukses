@@ -2,3 +2,5 @@ Kedepan ini adalah ngga tau isinya
 Mungkin Javascript
 Interview
 Vlog
+Syntax Javascript
+Framework JS
