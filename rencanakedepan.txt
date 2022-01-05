@@ -1,7 +1,8 @@
-Kedepan ini adalah ngga tau isinya
-Mungkin Javascript
 Interview
+Angular
+React
 Vlog
 Syntax Javascript
 Framework JS
 Fundamental Structure
+Laravel
