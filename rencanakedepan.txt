@@ -1,6 +1,7 @@
 Kedepan ini adalah ngga tau isinya
 Mungkin Javascript
 Interview
+Pelajari View
 Vlog
 Syntax Javascript
 Framework JS
